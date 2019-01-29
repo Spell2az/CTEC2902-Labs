@@ -15,6 +15,19 @@ namespace LectureExample
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
+
+
+
+
+
+
+
+
+
+
+            //I am doing some work on this class
+
+
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
     }
